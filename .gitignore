@@ -1,0 +1,12 @@
+node_modules/
+.next/
+.env*
+!.env.example
+.npm-cache/
+.supabase/
+supabase/.temp/
+coverage/
+playwright-report/
+test-results/
+*.log
+.tools/
